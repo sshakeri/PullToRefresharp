@@ -13,7 +13,7 @@
         <attr name="refreshingText" format="reference" />
 
         <attr name="ptrHeaderBackground" format="color|reference" />
-        <attr name="headerTextColor" format="color" />
+        <!--<attr name="headerTextColor" format="color" />-->
         <attr name="headerIconDrawable" format="reference" />
 
         <attr name="pullEnabled" format="boolean" />
