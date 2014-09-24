@@ -125,7 +125,7 @@ namespace PullToRefresharp.Android.Views
                                             Resource.String.ptrsharp_refreshing);
 
             header_background_res_id = a.GetResourceId(Resource.Styleable.PullToRefresharpWrapper_ptrHeaderBackground, 0);
-            header_text_color = a.GetColorStateList(Resource.Styleable.PullToRefresharpWrapper_headerTextColor);
+            header_text_color = a.GetColorStateList(Resource.Styleable.PullToRefresharpWrapper_ptrHeaderTextColor);
 
             pulldown_icon_drawable_res_id = a.GetResourceId(Resource.Styleable.PullToRefresharpWrapper_headerIconDrawable, 0);
 
